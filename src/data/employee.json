@@ -1,0 +1,28 @@
+[{  
+    "id": 1,
+    "name":"Madalyn Williams",
+    "role":"Foreman",
+    "location":"Seaside Horse",
+    "email":"customer@gmail.com",
+    "phone":"409-345-0744",
+    "payRate":"20/h"
+},
+{
+    "id": 2,
+    "name":"Jack Leak",
+    "role":"Helper",
+    "location":"Blueprint",
+    "email":"tt@gmail.com",
+    "phone":"409-345-0744",
+    "payRate":"10/h"
+},
+{
+    "id": 3,
+    "name":"Simon hodge",
+    "role":"Driver",
+    "location":"Seaside Horse",
+    "email":"tt2@gmail.com",
+    "phone":"409-345-0744",
+    "payRate":"11/h"
+}
+]
